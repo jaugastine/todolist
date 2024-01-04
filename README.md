@@ -2,7 +2,7 @@
 
 For this API Project in MIS 2402, we used the '$.getJSON()' and '$.post()' jQuery methods to implement a simple to-do list application. 
 
-This “todo” API is written in such a way that it will hold data for 24 hours. Data added to the “to do” list will automatically wash out of the server’s memory after one day
+This “todo” API is written in such a way that it will hold data for 24 hours. Data added to the “to do” list will automatically wash out of the server’s memory after one day.
 
 ** I have linked a video demo since the actual link will not work for public users.
 
